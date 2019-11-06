@@ -1,0 +1,16 @@
+tr{
+  width: 100%;
+}
+th{
+  border: 2px solid black;
+  height: 200px;
+  width: 25%;
+}
+table{
+  width: 100%;
+}
+
+img{
+  height: 400px;
+  width: 100%;
+}
